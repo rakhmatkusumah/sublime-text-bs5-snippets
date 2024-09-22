@@ -1,0 +1,8 @@
+============================================================
+Thank you for installing Bootstrap 5.2 Autocomplete
+============================================================
+
+Bootstrap 5.2 autocomplete is a selection of bootstrap 5.2 classes
+that will greatly improve your workflow.
+
+This package is compatible with Sublime Text 3.
